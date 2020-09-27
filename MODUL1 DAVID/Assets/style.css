@@ -1,0 +1,33 @@
+body{
+     font-family: sans-serif;
+}
+/* bagian home */
+.img-size{
+     width: 100px;
+     margin-right: 10px;
+}
+
+.home-container{
+     height: 500px;
+}
+
+/* bagian profile */
+.card-header{
+     display: flex;
+     justify-content: center;
+}
+
+.card-header img{
+     width: 200px;
+     margin: 10px 0;
+}
+
+.card-size{
+     width: 800px;
+     margin: 0 auto;
+}
+
+/* bagian product */
+.table-position{
+     margin: 0 auto;
+}
