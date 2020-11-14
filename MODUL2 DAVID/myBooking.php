@@ -85,7 +85,7 @@
                     </td>
                     <td>
                     <?php if(!empty($_POST['service'])){
-                         echo $hargaTotal = $duration*$harga+($duration*(count($_POST['service'])*20));
+                         echo $hargaTotal = $harga+($duration*(count($_POST['service'])*20));
                     } else {
                          echo $harga;
                     }?>
