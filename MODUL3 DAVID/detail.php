@@ -89,7 +89,7 @@
                                         </button>
                                    </div>
                                    <div class="modal-body">
-                                        <form action="detailEvent.php" method="post" enctype="multipart/form-data">
+                                        <form action="detailEvent.php?id=<?=$data['id']?>" method="post" enctype="multipart/form-data">
                                              <div class="row">
                                                   <div class="col px-3">
                                                        <div class="card pb-5">
