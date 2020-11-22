@@ -94,7 +94,7 @@
                          </div>
 
                          <div class="form-group row mx-auto">
-                              <label class="col-sm-2 col-form-label">Example select</label>
+                              <label class="col-sm-2 col-form-label">Navbar color</label>
                               <div class="col-sm-10">
 
                                    <select class="form-control col-sm-2" name="background_color">
