@@ -3,7 +3,7 @@
 @section('title', 'product')
 
 @section('content')
-@if ($product!=null)
+@if ($product)
 <a href="{{route('tambah')}}" class="btn btn-dark my-3 text-left">Add Data</a>
 <table class="table">
     <thead class="thead-dark">
